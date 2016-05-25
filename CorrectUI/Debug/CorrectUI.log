@@ -1,0 +1,40 @@
+﻿生成启动时间为 2016/4/27 17:22:39。
+     1>项目“D:\project\C\CorrectUI\CorrectUI\CorrectUI.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Debug\CorrectUI.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       CustomBuild:
+         Moc'ing correctui.h...
+         Qt: Untested Windows version 10.0 detected!
+         Uic'ing correctui.ui...
+         Rcc'ing correctui.qrc...
+         Qt: Untested Windows version 10.0 detected!
+     1>RCC : warning : No resources in 'D:\project\C\CorrectUI\CorrectUI\correctui.qrc'.
+         
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I.\GeneratedFiles /I. /IC:\Qt\Qt5.4.1\5.4\msvc2010_opengl\include /I.\GeneratedFiles\Debug /IC:\Qt\Qt5.4.1\5.4\msvc2010_opengl\include\QtCore /IC:\Qt\Qt5.4.1\5.4\msvc2010_opengl\include\QtGui /IC:\Qt\Qt5.4.1\5.4\msvc2010_opengl\include\QtWidgets /Zi /nologo /W1 /WX- /Od /Oy- /D UNICODE /D WIN32 /D WIN64 /D QT_DLL /D QT_CORE_LIB /D QT_GUI_LIB /D QT_WIDGETS_LIB /Gm- /EHsc /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt correct.cpp correctui.cpp GeneratedFiles\Debug\moc_correctui.cpp main.cpp PictureThread.cpp
+         correct.cpp
+         correctui.cpp
+         moc_correctui.cpp
+         main.cpp
+         PictureThread.cpp
+         正在生成代码...
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I.\GeneratedFiles /I. /IC:\Qt\Qt5.4.1\5.4\msvc2010_opengl\include /I.\GeneratedFiles\Debug /IC:\Qt\Qt5.4.1\5.4\msvc2010_opengl\include\QtCore /IC:\Qt\Qt5.4.1\5.4\msvc2010_opengl\include\QtGui /IC:\Qt\Qt5.4.1\5.4\msvc2010_opengl\include\QtWidgets /Zi /nologo /W1 /WX- /Od /Oy- /D UNICODE /D WIN32 /D WIN64 /D QT_DLL /D QT_CORE_LIB /D QT_GUI_LIB /D QT_WIDGETS_LIB /Gm- /EHsc /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt GeneratedFiles\qrc_correctui.cpp
+         qrc_correctui.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\project\C\CorrectUI\Win32\Debug\\CorrectUI.exe" /NOLOGO /LIBPATH:C:\Qt\Qt5.4.1\5.4\msvc2010_opengl\lib qtmaind.lib Qt5Cored.lib Qt5Guid.lib Qt5Widgetsd.lib opencv_core231d.lib opencv_highgui231d.lib opencv_features2d231d.lib opencv_calib3d231d.lib opencv_contrib231d.lib opencv_flann231d.lib opencv_imgproc231d.lib opencv_legacy231d.lib opencv_ml231d.lib opencv_objdetect231d.lib opencv_ts231d.lib opencv_gpu231d.lib opencv_video231d.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\CorrectUI.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"D:\project\C\CorrectUI\Win32\Debug\CorrectUI.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\project\C\CorrectUI\Win32\Debug\CorrectUI.lib" /MACHINE:X86 Debug\correct.obj
+         Debug\correctui.obj
+         Debug\moc_correctui.obj
+         Debug\qrc_correctui.obj
+         Debug\main.obj
+         Debug\PictureThread.obj
+         CorrectUI.vcxproj -> D:\project\C\CorrectUI\Win32\Debug\CorrectUI.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"D:\project\C\CorrectUI\Win32\Debug\\CorrectUI.exe;#1" /manifest Debug\CorrectUI.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         正在删除文件“Debug\CorrectUI.unsuccessfulbuild”。
+         正在对“Debug\CorrectUI.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“D:\project\C\CorrectUI\CorrectUI\CorrectUI.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:05.80
